@@ -15,10 +15,12 @@ My experiences are including:
 <p align="center">
   <a href="https://linkedin.com/in/mlhblbl"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
+<h3 align="center">Portswigger Level Progress:</h2>
+<p align="center">
+<img src="https://github.com/mlhblbl/mlhblbl.github.io/blob/main/portswigger.PNG" alt="board" align="center" width="200" height="200"/>
+</p>
 <h3 align="center">Languages and Tools:</h2>
 <p align="center">
-<img src="../portswigger.png" alt="board" width="60" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img src="https://portswigger.net/content/images/logos/favicon.ico" alt="burp" width="30" height="30"/>
