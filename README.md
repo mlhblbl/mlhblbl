@@ -10,15 +10,16 @@ My experiences are including:
 - Knowledge of using Burp Suite.
 - Solid understanding of code versioning tools such as Git.
 </h3>
+<h3 align="center">Portswigger Level Progress:</h2>
+<p align="center">
+<img src="https://github.com/mlhblbl/mlhblbl.github.io/blob/main/portswigger.PNG" alt="board" align="center" width="200" height="200"/>
+</p>
 
 <h3 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mlhblbl"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<h3 align="center">Portswigger Level Progress:</h2>
-<p align="center">
-<img src="https://github.com/mlhblbl/mlhblbl.github.io/blob/main/portswigger.PNG" alt="board" align="center" width="200" height="200"/>
-</p>
+
 <h3 align="center">Languages and Tools:</h2>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/>
