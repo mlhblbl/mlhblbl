@@ -12,7 +12,11 @@ My experiences are including:
 </h3>
 <h3 align="center">Portswigger Level Progress:</h2>
 <p align="center">
-<img src="https://github.com/mlhblbl/mlhblbl.github.io/blob/main/portswigger.PNG" alt="board" align="center" width="200" height="200"/>
+<img src="https://github.com/mlhblbl/mlhblbl/blob/main/portswigger.PNG" alt="board" align="center" width="200" height="200"/>
+</p>
+<h3 align="center">Tryhackme Profile:</h2>
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/mlhblbl.png" alt="TryHackMe">
 </p>
 
 <h3 align="center">Connect with me:</h2>
